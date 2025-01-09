@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ravikiranvadde.github.io/ravikiranvadde.github.io",
-  "name": "developer-portfolio",
+  "homepage": "https://shivarahul.github.io/RahulPortfolio/",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,11 +26,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
