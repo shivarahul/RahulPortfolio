@@ -4,7 +4,7 @@ export const experienceData = [
         company: 'USAA',
         jobtitle: 'Java Full Stack AWS Developer',
         startYear: 'May 2024',
-        endYear: 'Dec 2024'
+        endYear: 'Present'
     },
     {
         id: 2,
