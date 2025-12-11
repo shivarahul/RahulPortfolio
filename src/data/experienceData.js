@@ -10,8 +10,8 @@ export const experienceData = [
         id: 2,
         company: 'Digital Ellanky',
         jobtitle: 'Java Lead Engineer',
-        startYear: 'Jan 2024',
-        endYear: 'Aug 2024'
+        startYear: 'Jan 2022',
+        endYear: 'Aug 2022'
     },
     {
         id: 3,
@@ -32,6 +32,6 @@ export const experienceData = [
         company: 'Publicis Sapient',
         jobtitle: 'Java Full Stack Developer',
         startYear: 'Mar 2018',
-        endYear: 'Jul 2018'
+        endYear: 'Nov 2018'
     },
 ]
