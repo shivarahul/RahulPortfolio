@@ -32,6 +32,6 @@ export const experienceData = [
         company: 'Publicis Sapient',
         jobtitle: 'Java Full Stack Developer',
         startYear: 'Mar 2018',
-        endYear: 'Nov 2018'
+        endYear: 'Jul 2018'
     },
 ]
